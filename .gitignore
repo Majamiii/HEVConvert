@@ -1,4 +1,8 @@
-rendom/
-src/helloworld.rs
-src/helloworld.exe
-src/helloworld.pdb
+hello-rust/
+
+# Added by cargo
+
+/target
+/debug
+
+*.pdb
