@@ -1,0 +1,3 @@
+parallel compression
+recursive file/dir navigation
+manage phone storage - connected by usbc
