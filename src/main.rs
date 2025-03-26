@@ -1,7 +1,4 @@
-// use std::path::Path;
 use std::process::Command;
-// use std::ffi::OsStr;
-// use std::path::PathBuf;
 
 fn main() {
     
@@ -15,5 +12,4 @@ fn main() {
     println!("Stdout: {}", String::from_utf8_lossy(&output.stdout));
     println!("Stderr: {}", String::from_utf8_lossy(&output.stderr));
 
-    return;
 }
